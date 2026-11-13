@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋 I'm Zara 😈</h1>
+<h1 align="center">  i will find you </h1>
 
-### 💻 About Me
-- 🚀 Beginner Developer
-- 🌱 Learning programming
-- 💡 I like creating websites
-- 🖤 Future full stack developer
+###  About Me
+-  Beginner Developer
+-  Learning programming
+-  like creating websites
+-  Future full stack developer
 
 ---
 
